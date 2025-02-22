@@ -53,7 +53,7 @@
     <p><strong>利：</strong>钙、蛋白质、维生素D。</p>
     <p><strong>弊：</strong>乳糖、饱和脂肪。</p>
   </div>
-</div>  
+</div>
 
 <script> 
  function loadTheme(themeId, targetDivId) {
