@@ -12,43 +12,43 @@
 ## 食物资料
 
 <div id="food-data">
-  <div class="food-item" data-name="苹果">
-    <h3><a href="#apple-page">苹果</a></h3>
+  <div class="food-item" data-name="apple">
+    <h3><a href="#apple-page">apple</a></h3>
     <p><strong>利：</strong>维生素C、膳食纤维、抗氧化剂、钾。</p>
     <p><strong>弊：</strong>果糖、农药残留。</p>
   </div>
-  <div class="food-item" data-name="香蕉">
-    <h3><a href="#banana-page">香蕉</a></h3>
+  <div class="food-item" data-name="banana">
+    <h3><a href="#banana-page">banana</a></h3>
     <p><strong>利：</strong>钾、膳食纤维、维生素B6、碳水化合物。</p>
     <p><strong>弊：</strong>糖分、过敏。</p>
   </div>
-  <div class="food-item" data-name="菠菜">
-    <h3><a href="#spinach-page">菠菜</a></h3>
+  <div class="food-item" data-name="spinach">
+    <h3><a href="#spinach-page">spinach</a></h3>
     <p><strong>利：</strong>维生素K、维生素A、铁、叶酸。</p>
     <p><strong>弊：</strong>草酸、硝酸盐。</p>
   </div>
-  <div class="food-item" data-name="鸡蛋">
-    <h3><a href="#egg-page">鸡蛋</a></h3>
+  <div class="food-item" data-name="egg">
+    <h3><a href="#egg-page">egg</a></h3>
     <p><strong>利：</strong>优质蛋白质、胆碱、叶黄素和玉米黄素、多种维生素和矿物质。</p>
     <p><strong>弊：</strong>胆固醇、过敏。</p>
   </div>
-    <div class="food-item" data-name="牛肉">
-    <h3><a href="#beef-page">牛肉</a></h3>
+    <div class="food-item" data-name="beef">
+    <h3><a href="#beef-page">beef</a></h3>
     <p><strong>利：</strong>优质蛋白质、铁、锌、维生素B12。</p>
     <p><strong>弊：</strong>饱和脂肪和胆固醇、加工牛肉的有害物质。</p>
   </div>
-    <div class="food-item" data-name="三文鱼">
-    <h3><a href="#salmon-page">三文鱼</a></h3>
+    <div class="food-item" data-name="salmon">
+    <h3><a href="#salmon-page">salmon</a></h3>
     <p><strong>利：</strong>Omega-3脂肪酸、优质蛋白质、维生素D。</p>
     <p><strong>弊：</strong>重金属、过敏。</p>
   </div>
-    <div class="food-item" data-name="坚果">
-    <h3><a href="#nut-page">坚果（如杏仁）</a></h3>
+    <div class="food-item" data-name="nut">
+    <h3><a href="#nut-page">nut（如杏仁）</a></h3>
     <p><strong>利：</strong>健康脂肪、膳食纤维、维生素E、镁。</p>
     <p><strong>弊：</strong>能量、过敏。</p>
   </div>
-    <div class="food-item" data-name="牛奶">
-    <h3><a href="#milk-page">牛奶</a></h3>
+    <div class="food-item" data-name="milk">
+    <h3><a href="#milk-page">milk</a></h3>
     <p><strong>利：</strong>钙、蛋白质、维生素D。</p>
     <p><strong>弊：</strong>乳糖、饱和脂肪。</p>
   </div>
@@ -73,7 +73,7 @@
 
 <div id="food-pages">
   <div id="apple-page" class="food-page">
-    <h2>苹果</h2>
+    <h2>apple</h2>
     <p><strong>利：</strong>维生素C：增强免疫力，促进胶原蛋白合成，有助于皮肤健康。</p>
     <p>膳食纤维：促进肠道蠕动，预防便秘，有助于控制血糖。</p>
     <p>抗氧化剂（如类黄酮）：有助于抵抗自由基损伤，预防心血管疾病和癌症。</p>
@@ -82,7 +82,7 @@
     <p>农药残留：食用前应清洗干净或选择有机苹果。</p>
   </div>
   <div id="banana-page" class="food-page">
-    <h2>香蕉</h2>
+    <h2>banana</h2>
     <p><strong>利：</strong>钾：有助于维持血压平衡，预防肌肉痉挛。</p>
     <p>膳食纤维：促进肠道蠕动，预防便秘。</p>
     <p>维生素B6：有助于神经系统健康，促进红细胞生成。</p>
@@ -91,7 +91,7 @@
     <p>部分人群可能对其过敏。</p>
   </div>
   <div id="spinach-page" class="food-page">
-    <h2>菠菜</h2>
+    <h2>spinach</h2>
     <p><strong>利：</strong>维生素K：有助于血液凝固和骨骼健康。</p>
     <p>维生素A：有助于视力健康，维持皮肤和黏膜健康。</p>
     <p>铁：预防缺铁性贫血。</p>
@@ -100,7 +100,7 @@
     <p>硝酸盐：过量食用可能对健康不利。</p>
   </div>
     <div id="egg-page" class="food-page">
-    <h2>鸡蛋</h2>
+    <h2>egg</h2>
     <p><strong>利：</strong>优质蛋白质：提供人体必需的氨基酸，有助于组织修复和生长。</p>
     <p>胆碱：有助于大脑发育和记忆力。</p>
     <p>叶黄素和玉米黄素：有助于保护视力，预防黄斑变性。</p>
@@ -109,7 +109,7 @@
     <p>部分人群可能对其过敏。</p>
   </div>
     <div id="beef-page" class="food-page">
-    <h2>牛肉</h2>
+    <h2>beef</h2>
     <p><strong>利：</strong>优质蛋白质：提供人体必需的氨基酸，有助于组织修复和生长。</p>
     <p>铁：预防缺铁性贫血。</p>
     <p>锌：有助于免疫系统健康，促进伤口愈合。</p>
@@ -118,7 +118,7 @@
     <p>加工牛肉：含有较高的亚硝酸盐等有害物质，增加患癌风险。</p>
   </div>
     <div id="salmon-page" class="food-page">
-    <h2>三文鱼</h2>
+    <h2>salmon</h2>
     <p><strong>利：</strong>Omega-3脂肪酸：有助于降低血脂，预防心血管疾病，促进大脑发育。</p>
     <p>优质蛋白质：提供人体必需的氨基酸，有助于组织修复和生长。</p>
     <p>维生素D：有助于钙吸收，促进骨骼健康。</p>
@@ -126,7 +126,7 @@
     <p>部分人群可能对其过敏。</p>
   </div>
     <div id="nut-page" class="food-page">
-    <h2>坚果（如杏仁）</h2>
+    <h2>nut（如杏仁）</h2>
     <p><strong>利：</strong>健康脂肪：含有不饱和脂肪，有助于降低血脂。</p>
     <p>膳食纤维：促进肠道蠕动，预防便秘。</p>
     <p>维生素E：抗氧化剂，有助于保护细胞免受损伤。</p>
@@ -135,5 +135,5 @@
     <p>部分人群可能对其过敏。</p>
   </div>
     <div id="milk-page" class="food-page">
-    <h2>牛奶</h2>
+    <h2>milk</h2>
     <p><strong>利：</strong>钙：是钙的最佳来源，有助于骨骼和牙齿健康。</p>
