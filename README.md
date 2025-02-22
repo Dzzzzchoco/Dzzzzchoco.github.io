@@ -109,3 +109,27 @@
     <p>Vitamin E: Antioxidant, helps protect cells from damage. (维生素E：抗氧化剂，有助于保护细胞免受损伤。)</p>
     <p>Magnesium: Helps maintain nerve and muscle function. (镁：有助于维持神经和肌肉功能。)</p>
     <p><strong>
+  <div id="salmon-page" class="food-page">
+    <h2>Salmon (三文鱼)</h2>
+    <p><strong>Benefits (利):</strong></p>
+    <ul>
+        <li>Omega-3 fatty acids (Omega-3 脂肪酸): Helps lower blood lipids, prevents cardiovascular diseases, and promotes brain development. (有助于降低血脂，预防心血管疾病，促进大脑发育。)</li>
+        <li>High-quality protein (优质蛋白质): Provides essential amino acids for tissue repair and growth. (提供人体必需的氨基酸，有助于组织修复和生长。)</li>
+        <li>Vitamin D (维生素D): Helps calcium absorption and promotes bone health. (有助于钙吸收，促进骨骼健康。)</li>
+    </ul>
+    <p><strong>Drawbacks (弊):</strong></p>
+    <ul>
+        <li>Heavy metals (重金属): Some salmon may contain heavy metal residues (such as mercury), choose products from reliable sources. (部分三文鱼可能含有重金属（如汞）残留，应选择来源可靠的产品。)</li>
+        <li>Allergies (过敏): Some people may be allergic. (部分人群可能对其过敏。)</li>
+    </ul>
+  </div>  
+  <div id="spinach-page" class="food-page">
+    <h2>Spinach (菠菜)</h2>
+    <p><strong>Benefits (利):</strong> Vitamin K: Helps blood clotting and bone health. (维生素K：有助于血液凝固和骨骼健康。)</p>
+    <p>Vitamin A: Helps vision health, maintains skin and mucous membrane health. (维生素A：有助于视力健康，维持皮肤和黏膜健康。)</p>
+    <p>Iron: Prevents iron deficiency anemia. (铁：预防缺铁性贫血。)</p>
+    <p>Folic acid: Helps cell growth and division, especially important for pregnant women. (叶酸：有助于细胞生长和分裂，对孕妇尤其重要。)</p>
+    <p><strong>Drawbacks (弊):</strong> Oxalic acid: Excessive consumption may affect calcium absorption, kidney stone patients should eat less. (草酸：过量食用可能影响钙的吸收，肾结石患者应少食。)</p>
+    <p>Nitrates: Excessive consumption may be detrimental to health. (硝酸盐：过量食用可能对健康不利。)</p>
+  </div>
+ 
