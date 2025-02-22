@@ -10,7 +10,7 @@
 <div id="content">
   </div>
 
-<script>
+<script> 
  function loadTheme(themeId, targetDivId) {
   let contentDiv = document.getElementById(targetDivId);
   let themeContent = '';
