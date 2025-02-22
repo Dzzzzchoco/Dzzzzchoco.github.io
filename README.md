@@ -17,13 +17,37 @@
 
   switch (themeId) {
     case '蔬菜':
-      // ... (蔬菜主题内容)
+       themeContent = `
+         <h2>蔬菜</h2>
+         <ul>
+          <li><a href="#蔬菜-子主题一" onclick="loadSubTheme('蔬菜-子主题一'); return false;">叶菜类</a></li>
+          <li><a href="#蔬菜-子主题二" onclick="loadSubTheme('蔬菜-子主题二'); return false;">根茎类</a></li>
+         </ul>
+        <div id="subContent">
+          </div>
+      `;
       break;
     case '水果':
-      // ... (水果主题内容)
+      themeContent = `
+          <h2>水果</h2>
+          <ul>
+            <li><a href="#水果-子主题一" onclick="loadSubTheme('水果-子主题一'); return false;">柑橘类</a></li>
+             <li><a href="#水果-子主题二" onclick="loadSubTheme('水果-子主题二'); return false;">浆果类</a></li>
+          </ul>
+            <div id="subContent">
+            </div>
+        `;
       break;
     case '其他':
-      // ... (其他主题内容)
+      themeContent = `
+          <h2>其他</h2>
+          <ul>
+            <li><a href="#其他-子主题一" onclick="loadSubTheme('其他-子主题一'); return false;">坚果类</a></li>
+            <li><a href="#其他-子主题二" onclick="loadSubTheme('其他-子主题二'); return false;">菌菇类</a></li>
+          </ul>
+            <div id="subContent">
+            </div>
+        `;
       break;
     default:
       themeContent = '<p>请选择一个主题。</p>';
