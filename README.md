@@ -10,6 +10,51 @@
 <div id="content">
   </div>
 
+## 食物资料
+
+<div id="food-data">
+  <div class="food-item" data-name="苹果">
+    <h3><a href="#apple-page">苹果</a></h3>
+    <p><strong>利：</strong>维生素C、膳食纤维、抗氧化剂、钾。</p>
+    <p><strong>弊：</strong>果糖、农药残留。</p>
+  </div>
+  <div class="food-item" data-name="香蕉">
+    <h3><a href="#banana-page">香蕉</a></h3>
+    <p><strong>利：</strong>钾、膳食纤维、维生素B6、碳水化合物。</p>
+    <p><strong>弊：</strong>糖分、过敏。</p>
+  </div>
+  <div class="food-item" data-name="菠菜">
+    <h3><a href="#spinach-page">菠菜</a></h3>
+    <p><strong>利：</strong>维生素K、维生素A、铁、叶酸。</p>
+    <p><strong>弊：</strong>草酸、硝酸盐。</p>
+  </div>
+  <div class="food-item" data-name="鸡蛋">
+    <h3><a href="#egg-page">鸡蛋</a></h3>
+    <p><strong>利：</strong>优质蛋白质、胆碱、叶黄素和玉米黄素、多种维生素和矿物质。</p>
+    <p><strong>弊：</strong>胆固醇、过敏。</p>
+  </div>
+    <div class="food-item" data-name="牛肉">
+    <h3><a href="#beef-page">牛肉</a></h3>
+    <p><strong>利：</strong>优质蛋白质、铁、锌、维生素B12。</p>
+    <p><strong>弊：</strong>饱和脂肪和胆固醇、加工牛肉的有害物质。</p>
+  </div>
+    <div class="food-item" data-name="三文鱼">
+    <h3><a href="#salmon-page">三文鱼</a></h3>
+    <p><strong>利：</strong>Omega-3脂肪酸、优质蛋白质、维生素D。</p>
+    <p><strong>弊：</strong>重金属、过敏。</p>
+  </div>
+    <div class="food-item" data-name="坚果">
+    <h3><a href="#nut-page">坚果（如杏仁）</a></h3>
+    <p><strong>利：</strong>健康脂肪、膳食纤维、维生素E、镁。</p>
+    <p><strong>弊：</strong>能量、过敏。</p>
+  </div>
+    <div class="food-item" data-name="牛奶">
+    <h3><a href="#milk-page">牛奶</a></h3>
+    <p><strong>利：</strong>钙、蛋白质、维生素D。</p>
+    <p><strong>弊：</strong>乳糖、饱和脂肪。</p>
+  </div>
+</div>  
+
 <script> 
  function loadTheme(themeId, targetDivId) {
   let contentDiv = document.getElementById(targetDivId);
@@ -89,50 +134,7 @@
     subContentDiv.innerHTML = subThemeContent;
   }
 
-## 食物资料
 
-<div id="food-data">
-  <div class="food-item" data-name="苹果">
-    <h3><a href="#apple-page">苹果</a></h3>
-    <p><strong>利：</strong>维生素C、膳食纤维、抗氧化剂、钾。</p>
-    <p><strong>弊：</strong>果糖、农药残留。</p>
-  </div>
-  <div class="food-item" data-name="香蕉">
-    <h3><a href="#banana-page">香蕉</a></h3>
-    <p><strong>利：</strong>钾、膳食纤维、维生素B6、碳水化合物。</p>
-    <p><strong>弊：</strong>糖分、过敏。</p>
-  </div>
-  <div class="food-item" data-name="菠菜">
-    <h3><a href="#spinach-page">菠菜</a></h3>
-    <p><strong>利：</strong>维生素K、维生素A、铁、叶酸。</p>
-    <p><strong>弊：</strong>草酸、硝酸盐。</p>
-  </div>
-  <div class="food-item" data-name="鸡蛋">
-    <h3><a href="#egg-page">鸡蛋</a></h3>
-    <p><strong>利：</strong>优质蛋白质、胆碱、叶黄素和玉米黄素、多种维生素和矿物质。</p>
-    <p><strong>弊：</strong>胆固醇、过敏。</p>
-  </div>
-    <div class="food-item" data-name="牛肉">
-    <h3><a href="#beef-page">牛肉</a></h3>
-    <p><strong>利：</strong>优质蛋白质、铁、锌、维生素B12。</p>
-    <p><strong>弊：</strong>饱和脂肪和胆固醇、加工牛肉的有害物质。</p>
-  </div>
-    <div class="food-item" data-name="三文鱼">
-    <h3><a href="#salmon-page">三文鱼</a></h3>
-    <p><strong>利：</strong>Omega-3脂肪酸、优质蛋白质、维生素D。</p>
-    <p><strong>弊：</strong>重金属、过敏。</p>
-  </div>
-    <div class="food-item" data-name="坚果">
-    <h3><a href="#nut-page">坚果（如杏仁）</a></h3>
-    <p><strong>利：</strong>健康脂肪、膳食纤维、维生素E、镁。</p>
-    <p><strong>弊：</strong>能量、过敏。</p>
-  </div>
-    <div class="food-item" data-name="牛奶">
-    <h3><a href="#milk-page">牛奶</a></h3>
-    <p><strong>利：</strong>钙、蛋白质、维生素D。</p>
-    <p><strong>弊：</strong>乳糖、饱和脂肪。</p>
-  </div>
-</div>
 
   // 初始加载第一个主题
   loadTheme('水果');
