@@ -20,7 +20,7 @@
        themeContent = `
          <h2>蔬菜</h2>
          <ul>
-          <li><a href="#蔬菜-Asparagus (芦笋)" onclick="loadSubTheme('蔬菜-Asparagus (芦笋)'); return false;">Asparagus (芦笋)</a></li>
+          <li><a href="#蔬菜-Asparagus (芦笋)" onclick="loadSubTheme('蔬菜-Asparagus (芦笋)'); return right;">Asparagus (芦笋)</a></li>
           <li><a href="#蔬菜-子主题二" onclick="loadSubTheme('蔬菜-子主题二'); return false;">根茎类</a></li>
          </ul>
         <div id="subContent">
