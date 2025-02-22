@@ -87,5 +87,7 @@
   }
 
   // 初始加载第一个主题
+  loadTheme('水果');
   loadTheme('蔬菜');
+  loadTheme('其他');
 </script>
