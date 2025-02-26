@@ -10,6 +10,7 @@
     <ol type:="i">
       <li>Hi</li>
       <li>Bye</li>
+    </ol>
   </body>
 </html>
 
