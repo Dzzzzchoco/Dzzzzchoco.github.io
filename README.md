@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Hi| </title>
+    <title>Hi|</title>
   </head>
   <body>
     <a href="https://www.abc.net.au/triplej/news/watch-anime-movies-best-classics/103215494">😶‍🌫️</a>
