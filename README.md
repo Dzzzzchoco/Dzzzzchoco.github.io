@@ -12,6 +12,9 @@
       <li>Hi</li>
       <li>Bye</li>
     </ol>
+    ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@dzzzzchoco/30-nites-of-code)  
+  ![@dzzzzchoco #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dzzzzchoco)
   </body>
 </html>
 
