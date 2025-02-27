@@ -40,11 +40,25 @@
     <a href="#Acerola">Acerola</a>
     <a href="#Akebi">Akebi</a>
 
-<h2 id="B">B Section</h2>
+  <h2 id="B">B Section</h2>
     <a href="#Banana">Banana</a>
+    <a href="#Butternut squash">Butternut squash</a>
 
-<h2 id="C">C Section</h2>
-<p>Content for C...</p>
+  <h2 id="C">C Section</h2>
+    <a href="#Cherries">Cherries</a>
+    <a href="#Clementines">Clementines</a>
+
+  <h2 id="D">D Section</h2>
+    <a href="#Dates">Dates</a>
+
+  <h2 id="E">E Section</h2>
+    <a href="#Elderberries">Elderberries</a>
+    
+  <h2 id="F">F Section</h2>
+    <p>Content for F...</p>
+    
+  <h2 id="G">G Section</h2>
+    <p>Content for G...</p>
 
   <h2 class="A" id="Avocado">Avocado</h2>
   <p>Information about Avocados...</p>
@@ -65,6 +79,21 @@
   <p>Information about Akebi...</p>
 
   <h2 class="B" id="Banana">Banana</h2>
-  <p>Information about Avocados...</p>
+  <p>Information about Banana...</p>
+
+  <h2 class="B" id="Butternut squash">Butternut squash</h2>
+  <p>Information about Butternut squash...</p>
+  
+  <h2 class="C" id="Cherries">Cherries</h2>
+  <p>Information about Cherries...</p>
+  
+  <h2 class="C" id="Clementines">Clementines</h2>
+  <p>Information about Clementines...</p>
+  
+  <h2 class="D" id="Dates">Dates</h2>
+  <p>Information about Dates...</p>
+
+  <h2 class="E" id="Elderberries">Elderberries</h2>
+  <p>Information about Elderberries...</p>
   </body>
 </html>
