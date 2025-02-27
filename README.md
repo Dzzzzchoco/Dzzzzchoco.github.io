@@ -15,26 +15,7 @@
     <a href="#medellin">Link to Medellín</a>
     <a href="#llin">Link to Medellín</a>
     <h2 class="city" id="medellin">Medellín 🇨🇴</h2>
-    sssssssssss
-    ss
-    s
-    s
-    s
-    s
-    s
-    s
-    s
-    s
-    s
-    s
-    ss
-    s
-    s
-    s
-    s
-    s
-    s
-    s
+    s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s>br>s<br>s
     <h2 class="city" id="llin">llín 🇨🇴</h2>
   </body>
 </html>
