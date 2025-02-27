@@ -15,7 +15,7 @@
     <a href="#medellin">Link to Medellín</a>
     <a href="#llin">Link to Medellín</a>
     <h2 class="city" id="medellin">Medellín 🇨🇴</h2>
-    s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s>br>s<br>s
+    s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s
     <h2 class="city" id="llin">llín 🇨🇴</h2>
   </body>
 </html>
@@ -25,10 +25,12 @@
     <title>🐟</title>
   </head>
   <body>
-    <a href="#🐟"></a>
-    <a href="#鱼"></a>
+    <a href="#🐟">Link to 🐟</a>
+    <a href="#鱼">Link to 鱼</a>
     <h2>🐟</h2>
     <p>鱼</p>
     <h2 class="🐟" id="鱼">鱼</h2>
+      s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s
+    <h2 class="🐟" id="🐟">🐟</h2>
   </body>
 </html>
