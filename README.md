@@ -22,16 +22,21 @@
 
 <html>
   <head>
-    <title>🐟</title>
+    <title>viki</title>
   </head>
   <body>
-    <a href="#🐟">🐟</a>
-    <a href="#鱼">鱼</a>
-    <h2>🐟</h2>
-    <p>鱼</p>
+    <a href="#A">A</a>
+    <a href="#B">B</a>
+    <h2>ABC</h2>
+    <p>abcdefg</p>
     s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s
-    <h2 class="🐟" id="鱼">鱼</h2>
-    s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s
-    <h2 class="🐟" id="🐟">🐟</h2>
+    <h2 class="A" id="A">A</h2>
+    <a href="#Avocado">Avocado</a>
+    <a href="#Apple">Apple</a>
+     s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s
+    <h2 class="A" id="Avocado">Avocado</h2>
+      s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s<br>s
+    <h2 class="A" id="Apple">Apple</h2>
+    
   </body>
 </html>
