@@ -12,6 +12,10 @@
       <li>Hi</li>
       <li>Bye</li>
     </ol>
+    <a href="#medellin">Link to Medellín</a>
+    <a href="#llin">Link to Medellín</a>
+    <h2 class="city" id="medellin">Medellín 🇨🇴</h2>
+    <h2 class="city" id="llin">Medellín 🇨🇴</h2>
   </body>
 </html>
 
