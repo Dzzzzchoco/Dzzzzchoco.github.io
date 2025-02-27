@@ -20,3 +20,15 @@
   </body>
 </html>
 
+<html>
+  <head>
+    <title>🐟</title>
+  </head>
+  <body>
+    <a href="#🐟"></a>
+    <a href="#鱼"></a>
+    <h2>🐟</h2>
+    <p>鱼</p>
+    <h2 class="🐟" id="鱼">鱼</h2>
+  </body>
+</html>
