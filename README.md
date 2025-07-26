@@ -2,7 +2,7 @@
 
 <html>
   
-
+<div style="height: 100%; position: absolute; width: 100%;"><div style="position: relative; width: 100%; height: 100%; background-color: transparent; overflow: hidden;"><video preload="none" tabindex="-1" playsinline="" aria-label="嵌入式视频" poster="https://pbs.twimg.com/amplify_video_thumb/1928837094522368002/img/dWuZcAHZt4EHrQdP.jpg" style="width: 100%; height: 100%; position: absolute; background-color: black; top: 0%; left: 0%; transform: rotate(0deg) scale(1.005);"><source type="video/mp4" src="blob:https://x.com/94990436-dde6-47d5-b645-604f9d671eca"></video></div></div>
 
 
 </div>
