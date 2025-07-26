@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<img alt="图像" draggable="true" src="https://pbs.twimg.com/media/GMLiYQ-aAAA6pot?format=jpg&amp;name=1240x1240" class="css-9pa8cd">
+<img alt="图像" draggable="true" src="https://pbs.twimg.com/media/GMLiYQ-aAAA6pot?format=jpg&amp;name=240x240" class="css-9pa8cd"> width="250">
+
 
 </div>
   <head>
