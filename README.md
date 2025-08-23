@@ -1,9 +1,9 @@
 # Dzzzzchoco.github.io
 https://www.pinterest.com/IMI005/t/
-https://www.cosmos.so
-https://www.womp.com/index
-https://www.runoob.com/tags/ref-av-dom.html
-https://www.codecademy.com
+<br> https://www.cosmos.so
+<br> https://www.womp.com/index
+<br> https://www.runoob.com/tags/ref-av-dom.html
+<br> https://www.codecademy.com
 
 # Wedsite
 Codedex.io <br> VSCode
@@ -23,5 +23,6 @@ Heart
 
 # Other
 <br>![ASCII](https://i.pinimg.com/736x/56/27/9b/56279b4f52b01ca75823e063998091fa.jpg)
+
 
 
