@@ -1,28 +1,15 @@
-# Dzzzzchoco.github.io
-https://www.pinterest.com/IMI005/t/
-<br> https://www.cosmos.so
-<br> https://www.womp.com/index
-<br> https://www.runoob.com/tags/ref-av-dom.html
-<br> https://www.codecademy.com
-
-# Wedsite
-Codedex.io <br> VSCode
-
-# Shirt Design
-[T-Shirt](https://www.customink.com/designs/robotheart/syn0-00cz-mq35/share?pc=EMAIL-40778&utm_campaign=shared%20design&utm_source=share%20link&utm_medium=shared%20design&utm_content=shared%20desktop)
-
-# Design Idea
-Heart
-<br> ![ASCII](https://i.pinimg.com/736x/8e/2e/42/8e2e4241635ba9cf95b93497c9098648.jpg) 
-<br> ![Poker](https://i.pinimg.com/736x/e7/7a/7a/e77a7ac73495d2ef8cb66ffaab246635.jpg) 
-<br> ![WH](https://i.pinimg.com/736x/f1/59/d6/f159d6632b7758312d9987be69619e01.jpg)
-
-# Sample
-<br>![s](https://i.pinimg.com/1200x/e2/49/3f/e2493fc3703e8465da8410d7aa469c85.jpg)
-<br>
+# Learn Wedsite
+https://school.gdquest.com/courses/learn_2d_gamedev_godot_4/learn_gdscript/learn_gdscript_app#lets-get-started
+# App
+https://godotengine.org/
 
 # Other
-<br>![ASCII](https://i.pinimg.com/736x/56/27/9b/56279b4f52b01ca75823e063998091fa.jpg)
+[Game wedsite](https://itch.io/games)<br>
+[Animations pack](https://kenmi-art.itch.io/cute-fantasy-rpg)<br>
+[Color plan](https://lospec.com)<br>
+[Music](https://www.beepbox.co/#9n31s0k0l00e03t2ma7g0fj07r1i0o432T0v1u22f0q0w10l5d08w4h1E1b8T1v1u61f0qwx10v311d08A5F2B6Q0530Pf636E2b677T1v1u55f0qwx10x411d03A4F2B4Q40c0Pd73bE1b6T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014h000000004h400000000p16000000)
+
+
 
 
 
