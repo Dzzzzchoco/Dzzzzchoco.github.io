@@ -15,6 +15,11 @@ Brackeys
 
 https://docs.google.com/document/d/1KmsIfR3lzZXnsDUo7Z1TQpkjYPkEKFdq-yJHqE82IQg/edit?usp=sharing
 
+Godot web
+https://editor.godotengine.org/releases/latest/
+
+
+
 
 
 
