@@ -29,8 +29,9 @@ scratch<br>
 练习<br>
 https://www.junyiacademy.org/computing/programming/scratch/scratch-exercise
 
-
-
+<br>
+#NEWNEWNEW#
+<br> https://www.canva.com/design/DAHFP-FJ8YA/mjQm8Sy4tgcm-nNoTbR8Rg/edit?utm_content=DAHFP-FJ8YA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
